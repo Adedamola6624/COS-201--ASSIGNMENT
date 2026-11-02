@@ -1,2 +1,6 @@
 # COS-201--ASSIGNMENT
+Atoyebi Adedamola Joyce
+25/17326
+COS 201
+COMPUTER PROGRAMMING
 COS 201 Assignment for weeks 1-3
